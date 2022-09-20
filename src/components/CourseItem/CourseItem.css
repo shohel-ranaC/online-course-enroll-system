@@ -1,0 +1,16 @@
+.course{
+    border: none;
+    height: 320px;
+    width: 350px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: aquamarine;
+    color: brown;
+    box-shadow: 10px 10px 15px lightgray;
+}
+.course:hover{
+    background-color: green;
+    color: black;
+}

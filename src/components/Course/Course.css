@@ -1,0 +1,9 @@
+.course-container{
+  display: flex;
+}
+.courses{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
